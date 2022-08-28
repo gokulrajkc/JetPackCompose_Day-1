@@ -36,8 +36,5 @@ These composables render only the elements that are visible on screen, so they a
 	
 	It is used to restore your UI state after an activity or process is recreated. rememberSaveable retains state across recompositions.It also retains     	state across activity and process recreation.
 
+<img src="https://user-images.githubusercontent.com/11208646/187079966-092b7bda-3238-4890-ae74-4d2ebd4875c3.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/11208646/187078681-6d8cfd8f-4836-4760-a5a7-9223f3b080c2.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/11208646/187079216-fca6e36e-568f-4c70-9b7f-bbc882bd8e99.jpeg" width="300">	
 
-
-![WhatsApp Image 2022-08-28 at 7 41 11 PM-2](https://user-images.githubusercontent.com/11208646/187078681-6d8cfd8f-4836-4760-a5a7-9223f3b080c2.jpeg = 250x250)	
-![WhatsApp Image 2022-08-28 at 7 41 10 PM](https://user-images.githubusercontent.com/11208646/187079216-fca6e36e-568f-4c70-9b7f-bbc882bd8e99.jpeg)
-	
