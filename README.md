@@ -12,9 +12,7 @@ This annotation lets you preview your composable functions without having to bui
 
 This function lets you arrange elements vertically
 
-## Row ![WhatsApp Image 2022-08-28 at 7 41 11 PM](https://user-images.githubusercontent.com/11208646/187078673-14c3cdf5-1375-4f33-9038-71f6cfaf72fe.jpeg)![WhatsApp Image 2022-08-28 at 7 41 11 PM-2](https://user-images.githubusercontent.com/11208646/187078681-6d8cfd8f-4836-4760-a5a7-9223f3b080c2.jpeg)
-
-
+## Row 
 
 This function lets you arrange elements horizontally
 
@@ -38,4 +36,5 @@ These composables render only the elements that are visible on screen, so they a
 	
 	It is used to restore your UI state after an activity or process is recreated. rememberSaveable retains state across recompositions.It also retains state    	 across activity and process recreation.
 	
-	
+	![WhatsApp Image 2022-08-28 at 7 41 11 PM](https://user-images.githubusercontent.com/11208646/187078673-14c3cdf5-1375-4f33-9038-71f6cfaf72fe.jpeg)
+	![WhatsApp Image 2022-08-28 at 7 41 11 PM-2](https://user-images.githubusercontent.com/11208646/187078681-6d8cfd8f-4836-4760-a5a7-9223f3b080c2.jpeg)
